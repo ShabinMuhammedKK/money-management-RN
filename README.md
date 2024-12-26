@@ -1,1 +1,1 @@
-# money-management-RN
+# money-management-React-Native
